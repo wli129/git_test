@@ -1,0 +1,29 @@
+[33mcommit 81f5c2fe4f51af0b82c034f5804fcc2be268dfcb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: William <wfl266@utexas.edu>
+Date:   Tue Mar 28 16:11:34 2023 -0500
+
+    Edit README.md
+
+[33mcommit 815855809d62ef47db477f6ce0a92d3eacfb10fc[m
+Author: William <wfl266@utexas.edu>
+Date:   Tue Mar 28 16:10:12 2023 -0500
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 2cb47d652555cf46cd24c66c20017d24129f8273[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: William <wfl266@utexas.edu>
+Date:   Tue Mar 28 16:06:07 2023 -0500
+
+    Add hello_world.txt
+
+[33mcommit 8ab4c3a0d599f968548b5091976541cb3e1dcfed[m
+Author: wli129 <98008941+wli129@users.noreply.github.com>
+Date:   Tue Mar 28 12:03:37 2023 -0500
+
+    Update README.md
+
+[33mcommit eb196f44d2a9ac5df5149550a86054bfa3e1572a[m
+Author: wli129 <98008941+wli129@users.noreply.github.com>
+Date:   Tue Mar 28 11:45:24 2023 -0500
+
+    Initial commit
